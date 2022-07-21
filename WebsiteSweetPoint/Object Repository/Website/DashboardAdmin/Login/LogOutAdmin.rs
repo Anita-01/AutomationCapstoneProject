@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LogOutAdmin</name>
+   <tag></tag>
+   <elementGuidId>17389605-bd5d-4e4b-95ff-7140fe4f4c30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;navbarSupportedContent&quot;]/ul[2]/li/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;navbarSupportedContent&quot;]/ul[2]/li/a/i</value>
+      <webElementGuid>f36f6c3e-55b9-4f41-9dd3-e0f1b69c8b43</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09_InvalidRedeemCashOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ab5dbd9-98c8-4ec8-a6f1-f8b9d863a85d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3da3d92d-53f1-4b5e-9b6a-9c8359c007fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['08223892929292929', 'anitalasmariasiagian', 'anota123', '9121aaaaaaa']</defaultValue>
+      <description></description>
+      <id>3da3d92d-53f1-4b5e-9b6a-9c8359c007fa</id>
+      <masked>false</masked>
+      <name>noHP</name>
+   </variable>
+</TestCaseEntity>

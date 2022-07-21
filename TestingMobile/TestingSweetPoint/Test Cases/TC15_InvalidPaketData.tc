@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15_InvalidPaketData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68a97737-0fac-439a-b538-c34b5560955e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3d23ed9-a758-4174-afeb-ad798a462895</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['08223892929292929', 'anitalasmariasiagian', 'anota123', '9121aaaaaaa']</defaultValue>
+      <description></description>
+      <id>a3d23ed9-a758-4174-afeb-ad798a462895</id>
+      <masked>false</masked>
+      <name>noHP</name>
+   </variable>
+</TestCaseEntity>

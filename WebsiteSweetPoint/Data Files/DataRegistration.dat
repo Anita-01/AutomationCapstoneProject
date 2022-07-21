@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DataRegistration</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>939b7150-0672-4abd-b6c3-e46cf1e06967</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Jung+Jaehyun+Mark+Ncttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt choi+ung+12 Jl+Narumonda+III 082249352965 mark162%40gmail.com jaehyun123</data>
+   <data>Jung+Jaehyun +jaehyun12 Jl+Narumonda+III 082249352965 anitasiagian134%40gmail.com jaehyun123</data>
+   <data>xiumin jaheheheheh Jl+Narumonda+III 082249352965 anitasiagian11%40gmail.com jaehyun123</data>
+   <data>ooh+sehun kyungsoosehun Jl+Narumonda+III 082249352965 anitasiagiangmail.com jaehyun123</data>
+   <data>Jaemin+Nana mark12 Jl+Narumonda+III 082249352965 anitasiagian11%40gmail.com jaehyun123</data>
+   <data>Jung+Jaehyun kyung13 Jl+Narumonda+III 082249352965 xaxasasasadadadadadadada jaehyun123</data>
+   <data>Jung+Jaehyun kyung12 Jl+Narumonda+III 082249352965 anitasiagian11%40gmail.com jaehyun123</data>
+   <data>null anitasiagian Jl+Narumonda+III 082249352965 anitasiagian11%40gmail.com jaehyun123</data>
+   <data>Kyungso null Jl+Narumonda+III 082249352965 null jaehyun123</data>
+   <data>DO+Kyungsoo12 nam+joohyuk Jl+Narumonda+III 082249352965 anitasiagian11%40123gmail.com null</data>
+   <data>DO+Kyungsoo nam+joohyuk Jl+Narumonda+III null anitasiagian11%40gmail1234.com jaehyun123</data>
+   <data>Dae+Woong wong12 Jl+Narumonda+III adadada wong12%40gmail.com jaehyun123</data>
+   <data>null null null null null null</data>
+   <data>null null null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>name</name>
+      <size>14</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>username</name>
+      <size>14</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>alamat</name>
+      <size>14</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>phone</name>
+      <size>14</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>email</name>
+      <size>14</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>password</name>
+      <size>14</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

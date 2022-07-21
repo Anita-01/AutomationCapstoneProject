@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuCashOut</name>
+   <tag></tag>
+   <elementGuidId>79edc86b-cae0-405f-9ed8-4501d558383b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/main/div/div/a[1]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/main/div/div/a[1]/div/span</value>
+      <webElementGuid>d9573f2d-f739-4d2c-ae70-029cda24b455</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

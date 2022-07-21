@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13_InvalidRedeemPulsa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b7fcde7-b829-4c4f-90ca-88fec809118c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe42253b-b9a0-4968-8d3c-24d7071b1284</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['08223892929292929', 'anitalasmariasiagian', 'anota123', '9121aaaaaaa']</defaultValue>
+      <description></description>
+      <id>fe42253b-b9a0-4968-8d3c-24d7071b1284</id>
+      <masked>false</masked>
+      <name>noHP</name>
+   </variable>
+</TestCaseEntity>

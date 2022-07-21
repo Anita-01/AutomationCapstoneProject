@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC021_InvalidPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a160e7d-a470-4d4c-9a0a-8aa36692a6b0</testCaseGuid>
+   <variable>
+      <defaultValue>['admin', 'admin12', 'admin', 'admin', 'wrongusername', '', '', '']</defaultValue>
+      <description></description>
+      <id>27c28bc0-f12a-4540-aec3-d96b635f3285</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>['admin', 'admin', 'admin123', '', '', 'admin', 'admin12', '']</defaultValue>
+      <description></description>
+      <id>6e04dc46-2786-482d-81da-5ed4e8d23716</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuPaketData</name>
+   <tag></tag>
+   <elementGuidId>8758231e-ccd2-41f9-ba04-e8c54fc0de2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/main/div/div/a[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/main/div/div/a[4]/div/span</value>
+      <webElementGuid>965347e3-a76b-4550-9bd3-cdf46404ce1a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuEMoney</name>
+   <tag></tag>
+   <elementGuidId>78af74db-8473-4a20-adec-a5b016b81155</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/main/div/div/a[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/main/div/div/a[2]/div/span</value>
+      <webElementGuid>25642f73-a844-411b-bba6-a242561d79bd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

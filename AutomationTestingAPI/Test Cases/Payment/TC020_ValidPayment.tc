@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC020_ValidPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>527e7cc4-e687-424d-a7d5-a501b295f072</testCaseGuid>
+   <variable>
+      <defaultValue>['admin', 'admin12', 'admin', 'admin', 'wrongusername', '', '', '']</defaultValue>
+      <description></description>
+      <id>6941ac78-5820-4789-8b5d-8b97a321c70e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>['admin', 'admin', 'admin123', '', '', 'admin', 'admin12', '']</defaultValue>
+      <description></description>
+      <id>8c469670-305d-417b-a37f-f3b544dd260b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

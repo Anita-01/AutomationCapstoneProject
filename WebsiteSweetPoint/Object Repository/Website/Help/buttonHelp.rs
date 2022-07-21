@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonHelp</name>
+   <tag></tag>
+   <elementGuidId>e5feb611-48cb-4156-8a93-f4ab10b93976</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/main/div[2]/div/div/div[1]/div/div/div[3]/div[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/main/div[2]/div/div/div[1]/div/div/div[3]/div[4]/a/span</value>
+      <webElementGuid>e74810c3-f8ec-4762-b8c5-5dac46b268f7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

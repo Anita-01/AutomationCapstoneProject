@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>redeemMenu</name>
+   <tag></tag>
+   <elementGuidId>fd087dcf-3b9f-427b-880f-6577c5a45493</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;navbarSupportedContent&quot;]/ul[1]/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;navbarSupportedContent&quot;]/ul[1]/li[3]/a</value>
+   </webElementProperties>
+</WebElementEntity>

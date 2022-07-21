@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11_InvalidRedeemE-Money</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e05b276-f236-4dbf-869b-a85ee48194bd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e5790c05-d62c-48fa-a437-88f662e0a579</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['08223892929292929', 'anitalasmariasiagian', 'anota123', '9121aaaaaaa']</defaultValue>
+      <description></description>
+      <id>e5790c05-d62c-48fa-a437-88f662e0a579</id>
+      <masked>false</masked>
+      <name>noHP</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC053_InvalidDeleteTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4be6cd5f-d299-448b-9bce-b3c0196d99f4</testCaseGuid>
+</TestCaseEntity>

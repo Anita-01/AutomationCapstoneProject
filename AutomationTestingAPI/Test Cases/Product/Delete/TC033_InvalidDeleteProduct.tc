@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC033_InvalidDeleteProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d134bd3c-1257-4083-ac3d-ee0153830f63</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC025_InvalidCreateProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49d44121-3c68-4ee5-8ace-e55c4831edf6</testCaseGuid>
+</TestCaseEntity>

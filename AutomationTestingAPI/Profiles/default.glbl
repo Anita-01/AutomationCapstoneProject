@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://54.215.199.62'</initValue>
+      <name>serverUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>adminUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>adminPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiJ9.eyJhZGRyZXNzIjoiTGFuZ2l0IiwicGhvbmUiOiIwODEyMzQ1Njc4OTAiLCJuYW1lIjoiYWRtaW4iLCJpZCI6MTgsImVtYWlsIjoiYWRtaW5AZ21haWwuY29tIiwicG9pbnQiOjAsInVzZXJuYW1lIjoiYWRtaW4iLCJpYXQiOjE2NTgzMTAzMjUsImV4cCI6OTk0OTg2MTk1MjMwNDAwfQ.yglDkTNDqzXtL1-iVGev37wgc7W48S8mvCJscJmP6BE'</initValue>
+      <name>admin_token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

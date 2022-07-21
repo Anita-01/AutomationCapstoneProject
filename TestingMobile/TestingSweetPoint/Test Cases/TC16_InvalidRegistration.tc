@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16_InvalidRegistration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91a288da-848e-4991-ac00-8b87b1135e76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bba9996-4c8c-45a3-8d05-fe3e69231c69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>898a4799-171e-4615-a9e4-772093561fed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20ef5b7e-6635-4512-bacb-616f62fdc9df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bdfe2ef1-8f04-4bb8-b654-13cb73dbbea2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e36cae0-1516-418b-8815-56dfb229d415</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b657fc42-7a2b-4b04-a371-9a91bb5b8719</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['1212121', 'anitaanitaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', 'anita', 'anita1212', 'anita2g']</defaultValue>
+      <description></description>
+      <id>8bba9996-4c8c-45a3-8d05-fe3e69231c69</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>['Anita122', 'Anita121', 'Anita12', 'Anita1212', ' Anita12']</defaultValue>
+      <description></description>
+      <id>898a4799-171e-4615-a9e4-772093561fed</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>['anitasiagian16@gmail.com', 'anitasiagian96@gmail.com', 'anitasiagian90@gmail.com', 'anitasiagian6@gmail.com', 'anitasiagian6gmail.com']</defaultValue>
+      <description></description>
+      <id>20ef5b7e-6635-4512-bacb-616f62fdc9df</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>['anitasiagian123', ' anitasiagian123', ' anitasiagian123', ' anitasiagian123', ' anitasiagian123']</defaultValue>
+      <description></description>
+      <id>bdfe2ef1-8f04-4bb8-b654-13cb73dbbea2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>['NarumondaIII', 'NarumondaIII', 'NarumondaIII', 'NarumondaIII', 'NarumondaIII']</defaultValue>
+      <description></description>
+      <id>5e36cae0-1516-418b-8815-56dfb229d415</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>['082234567892', '082234567892', '082234567892', '082234567892', '082234567892']</defaultValue>
+      <description></description>
+      <id>b657fc42-7a2b-4b04-a371-9a91bb5b8719</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

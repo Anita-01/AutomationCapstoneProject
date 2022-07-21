@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC067_InvalidDeleteUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0505450-7d8c-4d8f-8d15-a552f65a9c3e</testCaseGuid>
+</TestCaseEntity>

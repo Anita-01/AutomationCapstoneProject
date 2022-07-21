@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DataInformationAccount</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>43b46e53-8372-4cd4-a853-1f25056adbd2</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>12313Anita Narumonda+III 082249352965</data>
+   <data>ALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL Narumonda 082249352965</data>
+   <data>null Narumonda 082249352965</data>
+   <data>%40 Narumonda 082249352965</data>
+   <data>Anita %40%40%21%2112 082249352965</data>
+   <data>Anita NarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumondaNarumonda 082249352965</data>
+   <data>Anita null 082249352965</data>
+   <data>null - 082249352965</data>
+   <data>Anita INDONESIA 082249352965</data>
+   <data>Anita jaehyunmarknct 082249352965</data>
+   <data>Anita Narumonda 09293%40%40%40%40</data>
+   <data>Narumonda Narumonda 1231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131123131311231313112313131</data>
+   <data>null null null</data>
+   <data>Anita Narumonda *</data>
+   <data>coba Narumonda 082249352965</data>
+   <data>null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>namalengkap</name>
+      <size>16</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>alamat</name>
+      <size>16</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>no_hp</name>
+      <size>16</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
